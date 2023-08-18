@@ -1,6 +1,7 @@
 # auto_pick
 
-A new Flutter project.
+App for the autopick reader device
+.
 
 ## Getting Started
 
